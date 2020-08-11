@@ -158,9 +158,6 @@
 		DB4CA5001B3A6657004B70F8 /* UIView+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = DB4CA4A11B3A6657004B70F8 /* UIView+BlocksKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB4CA5021B3A6657004B70F8 /* UIView+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA4A21B3A6657004B70F8 /* UIView+BlocksKit.m */; };
 		DB4CA5031B3A6657004B70F8 /* UIView+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA4A21B3A6657004B70F8 /* UIView+BlocksKit.m */; };
-		DB4CA5051B3A6657004B70F8 /* UIWebView+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = DB4CA4A31B3A6657004B70F8 /* UIWebView+BlocksKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DB4CA5071B3A6657004B70F8 /* UIWebView+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA4A41B3A6657004B70F8 /* UIWebView+BlocksKit.m */; };
-		DB4CA5081B3A6657004B70F8 /* UIWebView+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA4A41B3A6657004B70F8 /* UIWebView+BlocksKit.m */; };
 		DB4CA50D1B3A6720004B70F8 /* BlocksKit+MessageUI.h in Headers */ = {isa = PBXBuildFile; fileRef = DB4CA5091B3A6720004B70F8 /* BlocksKit+MessageUI.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB4CA50F1B3A6720004B70F8 /* BlocksKit+QuickLook.h in Headers */ = {isa = PBXBuildFile; fileRef = DB4CA50A1B3A6720004B70F8 /* BlocksKit+QuickLook.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB4CA5111B3A6720004B70F8 /* BlocksKit+UIKit.h in Headers */ = {isa = PBXBuildFile; fileRef = DB4CA50B1B3A6720004B70F8 /* BlocksKit+UIKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -220,7 +217,6 @@
 		DB4CA5BA1B3A67A3004B70F8 /* UIControlBlocksKitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA55E1B3A67A3004B70F8 /* UIControlBlocksKitTest.m */; };
 		DB4CA5BD1B3A67A3004B70F8 /* UIImagePickerControllerBlocksKitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA55F1B3A67A3004B70F8 /* UIImagePickerControllerBlocksKitTest.m */; };
 		DB4CA5C01B3A67A3004B70F8 /* UITextFieldBlocksKitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA5601B3A67A3004B70F8 /* UITextFieldBlocksKitTest.m */; };
-		DB4CA5C31B3A67A3004B70F8 /* UIWebViewBlocksKitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA5611B3A67A3004B70F8 /* UIWebViewBlocksKitTest.m */; };
 		DB4CA5CD1B3A6819004B70F8 /* BKApp.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA5CA1B3A6810004B70F8 /* BKApp.m */; };
 		DB4CA5D01B3A7A08004B70F8 /* BlocksKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB9B96371B3A52E500940D20 /* BlocksKit.framework */; };
 		DB4CA5D11B3A7A08004B70F8 /* BlocksKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = DB9B96371B3A52E500940D20 /* BlocksKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
@@ -277,7 +273,6 @@
 		DB5C6C7B1C5200B200778E5F /* UITextField+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DB4CA49F1B3A6657004B70F8 /* UITextField+BlocksKit.h */; };
 		DB5C6C7C1C5200B200778E5F /* UITextView+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DB5C6C4E1C52009700778E5F /* UITextView+BlocksKit.h */; };
 		DB5C6C7D1C5200B200778E5F /* UIView+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DB4CA4A11B3A6657004B70F8 /* UIView+BlocksKit.h */; };
-		DB5C6C7E1C5200B200778E5F /* UIWebView+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DB4CA4A31B3A6657004B70F8 /* UIWebView+BlocksKit.h */; };
 		DB9B961C1B3A52A700940D20 /* BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = DB9B961B1B3A52A700940D20 /* BlocksKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB9B96231B3A52A700940D20 /* BlocksKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB9B96181B3A52A700940D20 /* BlocksKit.framework */; };
 		DB9B96411B3A52E500940D20 /* BlocksKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB9B96371B3A52E500940D20 /* BlocksKit.framework */; };
@@ -371,7 +366,6 @@
 				DB5C6C7B1C5200B200778E5F /* UITextField+BlocksKit.h in CopyFiles */,
 				DB5C6C7C1C5200B200778E5F /* UITextView+BlocksKit.h in CopyFiles */,
 				DB5C6C7D1C5200B200778E5F /* UIView+BlocksKit.h in CopyFiles */,
-				DB5C6C7E1C5200B200778E5F /* UIWebView+BlocksKit.h in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -458,8 +452,6 @@
 		DB4CA4A01B3A6657004B70F8 /* UITextField+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextField+BlocksKit.m"; sourceTree = "<group>"; };
 		DB4CA4A11B3A6657004B70F8 /* UIView+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+BlocksKit.h"; sourceTree = "<group>"; };
 		DB4CA4A21B3A6657004B70F8 /* UIView+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+BlocksKit.m"; sourceTree = "<group>"; };
-		DB4CA4A31B3A6657004B70F8 /* UIWebView+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWebView+BlocksKit.h"; sourceTree = "<group>"; };
-		DB4CA4A41B3A6657004B70F8 /* UIWebView+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+BlocksKit.m"; sourceTree = "<group>"; };
 		DB4CA5091B3A6720004B70F8 /* BlocksKit+MessageUI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BlocksKit+MessageUI.h"; sourceTree = "<group>"; };
 		DB4CA50A1B3A6720004B70F8 /* BlocksKit+QuickLook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BlocksKit+QuickLook.h"; sourceTree = "<group>"; };
 		DB4CA50B1B3A6720004B70F8 /* BlocksKit+UIKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BlocksKit+UIKit.h"; sourceTree = "<group>"; };
@@ -497,7 +489,6 @@
 		DB4CA55E1B3A67A3004B70F8 /* UIControlBlocksKitTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIControlBlocksKitTest.m; sourceTree = "<group>"; };
 		DB4CA55F1B3A67A3004B70F8 /* UIImagePickerControllerBlocksKitTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIImagePickerControllerBlocksKitTest.m; sourceTree = "<group>"; };
 		DB4CA5601B3A67A3004B70F8 /* UITextFieldBlocksKitTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UITextFieldBlocksKitTest.m; sourceTree = "<group>"; };
-		DB4CA5611B3A67A3004B70F8 /* UIWebViewBlocksKitTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIWebViewBlocksKitTest.m; sourceTree = "<group>"; };
 		DB4CA5C81B3A6810004B70F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		DB4CA5C91B3A6810004B70F8 /* BKApp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BKApp.h; sourceTree = "<group>"; };
 		DB4CA5CA1B3A6810004B70F8 /* BKApp.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BKApp.m; sourceTree = "<group>"; };
@@ -694,8 +685,6 @@
 				DB5C6C4F1C52009700778E5F /* UITextView+BlocksKit.m */,
 				DB4CA4A11B3A6657004B70F8 /* UIView+BlocksKit.h */,
 				DB4CA4A21B3A6657004B70F8 /* UIView+BlocksKit.m */,
-				DB4CA4A31B3A6657004B70F8 /* UIWebView+BlocksKit.h */,
-				DB4CA4A41B3A6657004B70F8 /* UIWebView+BlocksKit.m */,
 			);
 			path = UIKit;
 			sourceTree = "<group>";
@@ -766,7 +755,6 @@
 				DB4CA55E1B3A67A3004B70F8 /* UIControlBlocksKitTest.m */,
 				DB4CA55F1B3A67A3004B70F8 /* UIImagePickerControllerBlocksKitTest.m */,
 				DB4CA5601B3A67A3004B70F8 /* UITextFieldBlocksKitTest.m */,
-				DB4CA5611B3A67A3004B70F8 /* UIWebViewBlocksKitTest.m */,
 			);
 			path = UIKit;
 			sourceTree = "<group>";
@@ -917,7 +905,6 @@
 				DB4CA4C41B3A6657004B70F8 /* MFMailComposeViewController+BlocksKit.h in Headers */,
 				DB4CA43D1B3A662A004B70F8 /* NSMapTable+BlocksKit.h in Headers */,
 				DB4CA4291B3A662A004B70F8 /* NSArray+BlocksKit.h in Headers */,
-				DB4CA5051B3A6657004B70F8 /* UIWebView+BlocksKit.h in Headers */,
 				DB4CA4E21B3A6657004B70F8 /* UIControl+BlocksKit.h in Headers */,
 				DB4CA5111B3A6720004B70F8 /* BlocksKit+UIKit.h in Headers */,
 				DB4CA4BA1B3A6657004B70F8 /* NSObject+A2BlockDelegate.h in Headers */,
@@ -1107,6 +1094,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -1189,7 +1177,6 @@
 				DB4CA4D51B3A6657004B70F8 /* UIActionSheet+BlocksKit.m in Sources */,
 				DB4CA4CB1B3A6657004B70F8 /* MFMessageComposeViewController+BlocksKit.m in Sources */,
 				DB4CA4EE1B3A6657004B70F8 /* UIImage+BlocksKit.m in Sources */,
-				DB4CA5071B3A6657004B70F8 /* UIWebView+BlocksKit.m in Sources */,
 				DB4CA4621B3A662A004B70F8 /* NSObject+BKBlockExecution.m in Sources */,
 				DB4CA4FD1B3A6657004B70F8 /* UITextField+BlocksKit.m in Sources */,
 				DB4CA43A1B3A662A004B70F8 /* NSInvocation+BlocksKit.m in Sources */,
@@ -1237,7 +1224,6 @@
 				DB4CA5B11B3A67A3004B70F8 /* QLPreviewControllerBlocksKitTest.m in Sources */,
 				DB4CA5691B3A67A3004B70F8 /* NSDictionaryBlocksKitTest.m in Sources */,
 				DB4CA56F1B3A67A3004B70F8 /* NSInvocationBlocksKitTest.m in Sources */,
-				DB4CA5C31B3A67A3004B70F8 /* UIWebViewBlocksKitTest.m in Sources */,
 				DB4CA57E1B3A67A3004B70F8 /* NSMutableOrderedSetBlocksKitTest.m in Sources */,
 				DB4CA5A21B3A67A3004B70F8 /* A2DynamicTestClasses.m in Sources */,
 				DB4CA5BA1B3A67A3004B70F8 /* UIControlBlocksKitTest.m in Sources */,
@@ -1340,7 +1326,6 @@
 				DB4CA4451B3A662A004B70F8 /* NSMutableArray+BlocksKit.m in Sources */,
 				DB4CA4D61B3A6657004B70F8 /* UIActionSheet+BlocksKit.m in Sources */,
 				DB4CA4721B3A662A004B70F8 /* NSSet+BlocksKit.m in Sources */,
-				DB4CA5081B3A6657004B70F8 /* UIWebView+BlocksKit.m in Sources */,
 				DB4CA42C1B3A662A004B70F8 /* NSArray+BlocksKit.m in Sources */,
 				DB4CA4361B3A662A004B70F8 /* NSIndexSet+BlocksKit.m in Sources */,
 				DB5C6C4C1C52005900778E5F /* NSNumber+BlocksKit.m in Sources */,
