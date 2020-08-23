@@ -143,12 +143,6 @@
 		DB4CA4E71B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = DB4CA4971B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB4CA4E91B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA4981B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.m */; };
 		DB4CA4EA1B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA4981B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.m */; };
-		DB4CA4EC1B3A6657004B70F8 /* UIImage+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = DB4CA4991B3A6657004B70F8 /* UIImage+BlocksKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DB4CA4EE1B3A6657004B70F8 /* UIImage+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA49A1B3A6657004B70F8 /* UIImage+BlocksKit.m */; };
-		DB4CA4EF1B3A6657004B70F8 /* UIImage+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA49A1B3A6657004B70F8 /* UIImage+BlocksKit.m */; };
-		DB4CA4F11B3A6657004B70F8 /* UIImagePickerController+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = DB4CA49B1B3A6657004B70F8 /* UIImagePickerController+BlocksKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DB4CA4F31B3A6657004B70F8 /* UIImagePickerController+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA49C1B3A6657004B70F8 /* UIImagePickerController+BlocksKit.m */; };
-		DB4CA4F41B3A6657004B70F8 /* UIImagePickerController+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA49C1B3A6657004B70F8 /* UIImagePickerController+BlocksKit.m */; };
 		DB4CA4F61B3A6657004B70F8 /* UIPopoverController+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = DB4CA49D1B3A6657004B70F8 /* UIPopoverController+BlocksKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB4CA4F81B3A6657004B70F8 /* UIPopoverController+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA49E1B3A6657004B70F8 /* UIPopoverController+BlocksKit.m */; };
 		DB4CA4F91B3A6657004B70F8 /* UIPopoverController+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4CA49E1B3A6657004B70F8 /* UIPopoverController+BlocksKit.m */; };
@@ -267,8 +261,6 @@
 		DB5C6C751C5200B200778E5F /* UIBarButtonItem+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DB4CA4931B3A6657004B70F8 /* UIBarButtonItem+BlocksKit.h */; };
 		DB5C6C761C5200B200778E5F /* UIControl+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DB4CA4951B3A6657004B70F8 /* UIControl+BlocksKit.h */; };
 		DB5C6C771C5200B200778E5F /* UIGestureRecognizer+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DB4CA4971B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.h */; };
-		DB5C6C781C5200B200778E5F /* UIImage+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DB4CA4991B3A6657004B70F8 /* UIImage+BlocksKit.h */; };
-		DB5C6C791C5200B200778E5F /* UIImagePickerController+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DB4CA49B1B3A6657004B70F8 /* UIImagePickerController+BlocksKit.h */; };
 		DB5C6C7A1C5200B200778E5F /* UIPopoverController+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DB4CA49D1B3A6657004B70F8 /* UIPopoverController+BlocksKit.h */; };
 		DB5C6C7B1C5200B200778E5F /* UITextField+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DB4CA49F1B3A6657004B70F8 /* UITextField+BlocksKit.h */; };
 		DB5C6C7C1C5200B200778E5F /* UITextView+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DB5C6C4E1C52009700778E5F /* UITextView+BlocksKit.h */; };
@@ -360,8 +352,6 @@
 				DB5C6C751C5200B200778E5F /* UIBarButtonItem+BlocksKit.h in CopyFiles */,
 				DB5C6C761C5200B200778E5F /* UIControl+BlocksKit.h in CopyFiles */,
 				DB5C6C771C5200B200778E5F /* UIGestureRecognizer+BlocksKit.h in CopyFiles */,
-				DB5C6C781C5200B200778E5F /* UIImage+BlocksKit.h in CopyFiles */,
-				DB5C6C791C5200B200778E5F /* UIImagePickerController+BlocksKit.h in CopyFiles */,
 				DB5C6C7A1C5200B200778E5F /* UIPopoverController+BlocksKit.h in CopyFiles */,
 				DB5C6C7B1C5200B200778E5F /* UITextField+BlocksKit.h in CopyFiles */,
 				DB5C6C7C1C5200B200778E5F /* UITextView+BlocksKit.h in CopyFiles */,
@@ -442,10 +432,6 @@
 		DB4CA4961B3A6657004B70F8 /* UIControl+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIControl+BlocksKit.m"; sourceTree = "<group>"; };
 		DB4CA4971B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIGestureRecognizer+BlocksKit.h"; sourceTree = "<group>"; };
 		DB4CA4981B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIGestureRecognizer+BlocksKit.m"; sourceTree = "<group>"; };
-		DB4CA4991B3A6657004B70F8 /* UIImage+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+BlocksKit.h"; sourceTree = "<group>"; };
-		DB4CA49A1B3A6657004B70F8 /* UIImage+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+BlocksKit.m"; sourceTree = "<group>"; };
-		DB4CA49B1B3A6657004B70F8 /* UIImagePickerController+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImagePickerController+BlocksKit.h"; sourceTree = "<group>"; };
-		DB4CA49C1B3A6657004B70F8 /* UIImagePickerController+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImagePickerController+BlocksKit.m"; sourceTree = "<group>"; };
 		DB4CA49D1B3A6657004B70F8 /* UIPopoverController+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIPopoverController+BlocksKit.h"; sourceTree = "<group>"; };
 		DB4CA49E1B3A6657004B70F8 /* UIPopoverController+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIPopoverController+BlocksKit.m"; sourceTree = "<group>"; };
 		DB4CA49F1B3A6657004B70F8 /* UITextField+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextField+BlocksKit.h"; sourceTree = "<group>"; };
@@ -673,10 +659,6 @@
 				DB4CA4961B3A6657004B70F8 /* UIControl+BlocksKit.m */,
 				DB4CA4971B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.h */,
 				DB4CA4981B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.m */,
-				DB4CA4991B3A6657004B70F8 /* UIImage+BlocksKit.h */,
-				DB4CA49A1B3A6657004B70F8 /* UIImage+BlocksKit.m */,
-				DB4CA49B1B3A6657004B70F8 /* UIImagePickerController+BlocksKit.h */,
-				DB4CA49C1B3A6657004B70F8 /* UIImagePickerController+BlocksKit.m */,
 				DB4CA49D1B3A6657004B70F8 /* UIPopoverController+BlocksKit.h */,
 				DB4CA49E1B3A6657004B70F8 /* UIPopoverController+BlocksKit.m */,
 				DB4CA49F1B3A6657004B70F8 /* UITextField+BlocksKit.h */,
@@ -876,7 +858,6 @@
 				DB4CA4511B3A662A004B70F8 /* NSMutableOrderedSet+BlocksKit.h in Headers */,
 				DB4CA4AB1B3A6657004B70F8 /* A2DynamicDelegate.h in Headers */,
 				DB4CA4381B3A662A004B70F8 /* NSInvocation+BlocksKit.h in Headers */,
-				DB4CA4F11B3A6657004B70F8 /* UIImagePickerController+BlocksKit.h in Headers */,
 				DB4CA46A1B3A662A004B70F8 /* NSOrderedSet+BlocksKit.h in Headers */,
 				DB4CA46F1B3A662A004B70F8 /* NSSet+BlocksKit.h in Headers */,
 				DB4CA4BF1B3A6657004B70F8 /* NSObject+A2DynamicDelegate.h in Headers */,
@@ -895,7 +876,6 @@
 				DBA576A41B3A7B9700E41A6B /* BKDefines.h in Headers */,
 				DB4CA4B01B3A6657004B70F8 /* NSCache+BlocksKit.h in Headers */,
 				DB4CA4741B3A662A004B70F8 /* NSTimer+BlocksKit.h in Headers */,
-				DB4CA4EC1B3A6657004B70F8 /* UIImage+BlocksKit.h in Headers */,
 				DB4CA4B51B3A6657004B70F8 /* NSURLConnection+BlocksKit.h in Headers */,
 				DB4CA4A61B3A6657004B70F8 /* A2BlockInvocation.h in Headers */,
 				DB4CA5001B3A6657004B70F8 /* UIView+BlocksKit.h in Headers */,
@@ -1159,7 +1139,6 @@
 			files = (
 				DB4CA4E91B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.m in Sources */,
 				DB4CA44E1B3A662A004B70F8 /* NSMutableIndexSet+BlocksKit.m in Sources */,
-				DB4CA4F31B3A6657004B70F8 /* UIImagePickerController+BlocksKit.m in Sources */,
 				DB4CA5021B3A6657004B70F8 /* UIView+BlocksKit.m in Sources */,
 				DB4CA4DA1B3A6657004B70F8 /* UIAlertView+BlocksKit.m in Sources */,
 				DB4CA4761B3A662A004B70F8 /* NSTimer+BlocksKit.m in Sources */,
@@ -1176,7 +1155,6 @@
 				DB4CA4BC1B3A6657004B70F8 /* NSObject+A2BlockDelegate.m in Sources */,
 				DB4CA4D51B3A6657004B70F8 /* UIActionSheet+BlocksKit.m in Sources */,
 				DB4CA4CB1B3A6657004B70F8 /* MFMessageComposeViewController+BlocksKit.m in Sources */,
-				DB4CA4EE1B3A6657004B70F8 /* UIImage+BlocksKit.m in Sources */,
 				DB4CA4621B3A662A004B70F8 /* NSObject+BKBlockExecution.m in Sources */,
 				DB4CA4FD1B3A6657004B70F8 /* UITextField+BlocksKit.m in Sources */,
 				DB4CA43A1B3A662A004B70F8 /* NSInvocation+BlocksKit.m in Sources */,
@@ -1301,7 +1279,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB4CA4EF1B3A6657004B70F8 /* UIImage+BlocksKit.m in Sources */,
 				DB4CA4311B3A662A004B70F8 /* NSDictionary+BlocksKit.m in Sources */,
 				DB4CA44F1B3A662A004B70F8 /* NSMutableIndexSet+BlocksKit.m in Sources */,
 				DB4CA4B81B3A6657004B70F8 /* NSURLConnection+BlocksKit.m in Sources */,
@@ -1317,7 +1294,6 @@
 				DB4CA4E51B3A6657004B70F8 /* UIControl+BlocksKit.m in Sources */,
 				DB4CA4EA1B3A6657004B70F8 /* UIGestureRecognizer+BlocksKit.m in Sources */,
 				DB4CA4B31B3A6657004B70F8 /* NSCache+BlocksKit.m in Sources */,
-				DB4CA4F41B3A6657004B70F8 /* UIImagePickerController+BlocksKit.m in Sources */,
 				DB4CA4591B3A662A004B70F8 /* NSMutableSet+BlocksKit.m in Sources */,
 				DB4CA4C21B3A6657004B70F8 /* NSObject+A2DynamicDelegate.m in Sources */,
 				DB4CA4401B3A662A004B70F8 /* NSMapTable+BlocksKit.m in Sources */,
